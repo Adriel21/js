@@ -1,0 +1,36 @@
+Hello World!
+Conceito Geral
+O Modelo de Objeto de Documento (DOM) é uma representação estruturada do documento como uma árvore.
+
+
+Ilustração do DOM
+O DOM possui métodos que permitem acesso à árvore, para que eles possam alterar a estrutura, estilo e conteúdo do documento.
+
+Full-stack
+Usamos HTML para estruturar e CSS para estilizar.
+
+JavaScript é uma linguagem de programação para projetos web.
+
+Back-End
+Área de desenvolvimento com tecnologias de servidor.
+
+Editores
+VS Code
+Atom
+Sublime
+
+Desenvolvimento Front-End - 2022.
+
+Referências
+Eloquent JavaScript: O Document Object Model - https://github.com/braziljs/eloquente-javascript/blob/master/chapters/13-document-object-model.md
+
+MDN Modelo de Objeto de Documento (DOM) - https://developer.mozilla.org/pt-BR/docs/DOM/Referencia_do_DOM
+
+Tableless: Entendendo o DOM - https://tableless.com.br/entendendo-o-dom-document-object-model/
+
+
+
+https://github.com/braziljs/eloquente-javascript/blob/master/chapters/13-document-object-model.md>
+
+https://raw.githubusercontent.com/braziljs/eloquente-javascript/master/img/html-tree.jpg
+
